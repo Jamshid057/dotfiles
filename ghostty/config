@@ -1,0 +1,22 @@
+# Tokyo Night (Night) — nvim bilan mos
+theme = TokyoNight Night
+
+# Shrift va oyna
+font-family = "JetBrains Mono"
+font-size = 14
+font-feature = -liga
+
+# Solid background — shaffoflik yo'q
+background-opacity = 1.0
+cursor-style = block
+cursor-style-blink = true
+
+# Oyna ko'rinishi
+window-padding-x = 10
+window-padding-y = 10
+window-decoration = true
+macos-titlebar-style = transparent
+
+# Tmux integratsiyasi uchun
+shell-integration = zsh
+shell-integration-features = cursor,sudo,title

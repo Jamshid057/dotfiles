@@ -1,0 +1,12 @@
+# GitHub CLI (gh) — https://cli.github.com/manual/gh_config
+# Token hosts.yml da saqlanadi; repoga commit qilinmaydi.
+version: 1
+git_protocol: https
+prompt: enabled
+prefer_editor_prompt: disabled
+spinner: enabled
+color_labels: disabled
+aliases:
+  co: pr checkout
+  prs: pr list --author @me
+  issues: issue list --assignee @me
