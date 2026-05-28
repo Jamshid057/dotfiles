@@ -117,6 +117,12 @@ source ~/.zshrc
 
 ---
 
+## MacBookni tozalab noldan o'rnatish
+
+To'liq qo'llanma: **[FRESH_INSTALL.md](./FRESH_INSTALL.md)** — zaxira, Erase macOS, SSH, dotfiles, tekshirish ro'yxati.
+
+---
+
 ## Yangi mashinada (to'liq)
 
 ```bash
